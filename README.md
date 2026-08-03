@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1732-find-the-highest-altitude](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -234,10 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Memoization
 |  |
