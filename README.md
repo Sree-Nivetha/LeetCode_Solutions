@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Tree
 |  |
 | ------- |
@@ -240,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
