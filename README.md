@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Game Theory
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
