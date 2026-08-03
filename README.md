@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
