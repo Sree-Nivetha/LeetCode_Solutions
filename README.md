@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
