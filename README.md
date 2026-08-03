@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0231-power-of-two) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
