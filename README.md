@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0415-add-strings) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0137-single-number-ii) |
