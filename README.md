@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
