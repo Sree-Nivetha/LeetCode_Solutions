@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
