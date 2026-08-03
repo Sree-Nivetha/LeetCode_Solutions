@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
