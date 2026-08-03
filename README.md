@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -142,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
