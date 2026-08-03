@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0100-same-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
