@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
@@ -67,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Tree
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -286,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sree-Nivetha/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
